@@ -14,21 +14,24 @@ This is a classic Snake Game project developed in Java, with a focus on a modula
 ## Project Structure
 
 The project is divided into logical packages to ensure modularity and separation of concerns.
-src/
-└── br/
-└── com/
-└── snakegame/
-├── core/          // Core game logic
-│   ├── GameState.java
-│   └── SnakeGame.java
-├── graphics/      // GUI and rendering
-│   ├── GamePanel.java
-│   └── GameFrame.java
-├── snake/         // Game entities (snake, food)
-│   ├── Direction.java
-│   ├── Food.java
-│   └── Snake.java
-└── Main.java      // Application entry point
+
+    
+    src/
+    └── br/
+    └── com/
+    └── snakegame/
+    ├── core/          // Core game logic
+    │   ├── GameState.java
+    │   └── SnakeGame.java
+    ├── graphics/      // GUI and rendering
+    │   ├── GamePanel.java
+    │   └── GameFrame.java
+    ├── snake/         // Game entities (snake, food)
+    │   ├── Direction.java
+    │   ├── Food.java
+    │   └── Snake.java
+    └── Main.java      // Application entry point
+    
 
 
 ### Package Details
