@@ -69,4 +69,5 @@ Feel free to open issues or pull requests if you have suggestions for improvemen
 
 ---
 
-**Author:** Daniel(https://github.com/danieldelimax)
+## Author
+* **Daniel de Lima** - [Profile](https://github.com/danieldelimax)
